@@ -1,2 +1,5 @@
 # hello-world
-My first repo
+
+Hi Humans,
+
+I am Teddy! I like to eat, sleep & play. That's me...
